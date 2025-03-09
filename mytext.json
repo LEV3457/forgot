@@ -11,7 +11,17 @@
         },
         {
             "questions": "какое у вас настроение?"
+        },
+        {
+            "questions": " у вас Mac, Windows или Linux?"
+        },
+        {
+            "questions": " В чем разница между null и undefined?"
+        },
+        {
+            "questions":" Что такое DOM?"
+        },
+        {
+            "questions": "как в  JS вызвать функцию?"
         }
-
-    ]
-}
+        
